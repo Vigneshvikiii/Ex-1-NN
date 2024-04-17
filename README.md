@@ -79,23 +79,23 @@ print("Lenght of X_test ",len(X_test))
 ```
 ## OUTPUT:
 ### Dataset:
-![images](./images/data.png)
+![image](https://github.com/Vigneshvikiii/Ex-1-NN/assets/147474483/2c5a8fc3-5561-4d83-bfdb-7c1722ac8b21)
 ### X Values:
-![images](./images/x_values.png)
+![image](https://github.com/Vigneshvikiii/Ex-1-NN/assets/147474483/ae9765c3-fc9a-42c6-a777-b030c4604449)
 ### Y Values:
-![images](./images/y_values.png)
+![image](https://github.com/Vigneshvikiii/Ex-1-NN/assets/147474483/b660e706-d7b6-4708-bc2c-1e7a5b31dd40)
 ### Null Values:
-![images](./images/null_values.png)
+![image](https://github.com/Vigneshvikiii/Ex-1-NN/assets/147474483/3a657d09-d24b-448d-ba5b-1e0eb811ed1f)
 ### Duplicated Values:
-![images](./images/duplicated_values.png)
+![image](https://github.com/Vigneshvikiii/Ex-1-NN/assets/147474483/cce61cfe-da95-4cb6-85fa-54e44ca6cd2f)
 ### Description:
-![images](./images/describe.png)
+![image](https://github.com/Vigneshvikiii/Ex-1-NN/assets/147474483/7fe94319-22f8-42a4-9a07-bde51199d212)
 ### Normalized Dataset:
-![](./images/normalized.png)
+![image](https://github.com/Vigneshvikiii/Ex-1-NN/assets/147474483/356a2f4e-d82e-43bb-8810-240152560d55)
 ### Training Data:
-![](./images/training%20.png)
+![image](https://github.com/Vigneshvikiii/Ex-1-NN/assets/147474483/845051e2-feeb-4c85-a0cc-806b725585f2)
 ### Testing Data:
-![](./images/test.png)
+![image](https://github.com/Vigneshvikiii/Ex-1-NN/assets/147474483/97b627ba-7ab3-4f74-8501-28b7d898d126)
 
 
 ## RESULT:
